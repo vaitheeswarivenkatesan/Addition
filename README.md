@@ -1,1 +1,1 @@
-# [Addition](/https://www.hackerrank.com/challenges/solve-me-first/problem)
+# [Addition](https://www.hackerrank.com/challenges/solve-me-first/problem)
